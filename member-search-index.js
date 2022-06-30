@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"edu.sjsu.assignment1","c":"Card","l":"Card(String)","u":"%3Cinit%3E(java.lang.String)"},{"p":"edu.sjsu.assignment1","c":"Card","l":"getDescription()"}];updateSearchResults();
